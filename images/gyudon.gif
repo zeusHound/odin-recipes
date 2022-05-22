@@ -1,0 +1,1053 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#"><title>Projected Space</title>
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=b84ed2eb31f8e1bbdb3e7a53afa67dd4"><link rel="shortcut icon" href="https://64.media.tumblr.com/avatar_53df0a3700f5_128.pnj">
+<meta name="description" content="Gyudon as it stands is like ultimate comfort food. A hearty bowl of beef, onion, potatoes and rice. It&rsquo;s like coming home to someone stroking back your hair (or your preferred type of endearment)..." />
+<link href='http://fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+ 
+<!--
+ 
+ 
+#10 ETUDE THEME (VER.1) BY COCORINI (http://www.cocorini.com).
+PLEASE DO NOT REMOVE THIS CREDIT. THANK YOU!
+ 
+ 
+-->
+ 
+<meta name="color:Main Background" content="#efefef"/>
+<meta name="color:Middle BG" content="#fffdf4"/>
+<meta name="color:Middle BG Shadow" content="#e9d9c2"/>
+ 
+<meta name="color:Sidebar BG" content="#f9f7e0"/>
+<meta name="color:Title Text" content="#836363"/>
+<meta name="color:Title BG" content="#ffffff"/>
+<meta name="color:Title Border" content="#cec6c6"/>
+<meta name="color:Subtitle Text" content="#b7b7b7"/>
+<meta name="color:Title Section BG" content="#f6bebe"/>
+<meta name="color:Sidebar Image Border" content="#dec5c5"/>
+<meta name="color:Description BG" content="#eae6e6"/>
+<meta name="color:Description Text" content="#938b8b"/>
+ 
+<meta name="color:Custom Links BG" content="#e5efdd"/>
+<meta name="color:Custom Links Menu Text" content="#b09a87"/>
+<meta name="color:Custom Links Menu Text Shadow" content="#ffffff"/>
+<meta name="color:Custom Links Menu BG" content="#eeeadb"/>
+<meta name="color:Custom Links Menu Border" content="#ffffff"/>
+ 
+<meta name="color:Entries Column BG" content="#fdefe1"/>
+<meta name="color:Entries Column Border" content="#f2c0c0"/>
+<meta name="color:Entries" content="#ffffff"/>
+<meta name="color:Entries Text" content="#737373"/>
+<meta name="color:Entries Border" content="#f4e6e6"/>
+<meta name="color:Blockquote Text" content="#859452"/>
+<meta name="color:Blockquote Border" content="#f2d0a1"/>
+ 
+<meta name="color:Entries Title Text" content="#7e4343"/>
+<meta name="color:Entries Title BG" content="#f5d1d1"/>
+<meta name="color:Entries Title Border" content="#ffffff"/>
+<meta name="color:Entries Link Title Text" content="#6d9353"/>
+<meta name="color:Entries Link Title Text Hover" content="#7ab99a"/>
+<meta name="color:Entries Link Title BG" content="#dbefd6"/>
+<meta name="color:Entries Link Title Border" content="#ffffff"/>
+ 
+<meta name="color:Links" content="#b49a59"/>
+<meta name="color:Links Hover" content="#f3a45b"/>
+<meta name="color:Bold Text" content="#89aea7"/>
+<meta name="color:Italic Text" content="#da9898"/>
+ 
+<meta name="color:Permalink BG" content="#f2f8e9"/>
+<meta name="color:Permalink Text" content="#6a5240"/>
+<meta name="color:Permalink Links" content="#a25e37"/>
+<meta name="color:Permalink Links Hover" content="#e96c3f"/>
+<meta name="color:Time Text Highlight" content="#d8e6a1"/>
+<meta name="color:Notes Text Highlight" content="#fccbcb"/>
+<meta name="color:Reblog Text Highlight" content="#fad3a3"/>
+<meta name="color:Tags Text Highlight" content="#cceddb"/>
+<meta name="color:Source Text Highlight" content="#e4cbec"/>
+ 
+<meta name="color:Ask Text" content="#a87b7b"/>
+<meta name="color:Ask Background" content="#fbe5e5"/>
+<meta name="color:Asker Text" content="#ffffff"/>
+<meta name="color:Asker Highlight" content="#e6acac"/>
+<meta name="color:Chat Label Text" content="#8e4e4e"/>
+<meta name="color:Chat Label BG" content="#eedede"/>
+<meta name="color:Chat Line Text" content="#978667"/>
+<meta name="color:Chat Line BG" content="#efefdf"/>
+ 
+<meta name="color:Cat Face" content="#de7468"/>
+<meta name="color:Cat Features" content="#905252"/>
+<meta name="color:Cat Body" content="#f8f3dd"/>
+<meta name="color:Cat Navigation Link" content="#ae4747"/>
+ 
+<meta name="color:Rabbit Face" content="#f99d9d"/>
+<meta name="color:Rabbit Features" content="#bb6363"/>
+<meta name="color:Rabbit Body" content="#f8f3dd"/>
+<meta name="color:Rabbit Navigation Link" content="#e97171"/>
+ 
+<meta name="color:Bear Face" content="#a3cfc8"/>
+<meta name="color:Bear Features" content="#729588"/>
+<meta name="color:Bear Body" content="#f8f3dd"/>
+<meta name="color:Bear Navigation Link" content="#86b4a1"/>
+ 
+<meta name="color:Panda Face" content="#c5c5c5"/>
+<meta name="color:Panda Features" content="#858585"/>
+<meta name="color:Panda Body" content="#f8f3dd"/>
+<meta name="color:Panda Navigation Link" content="#9a9a9a"/>
+ 
+<meta name="color:Pagination Link Text" content="#ffffff"/>
+<meta name="color:Pagination Link BG" content="#a6cea8"/>
+<meta name="color:Pagination Current Page BG" content="#ffffff"/>
+<meta name="color:Pagination Current Page Text" content="#c08662"/>
+ 
+<meta name="color:Music Player BG" content="#c6bcdc"/>
+<meta name="color:Music Player Border" content="#ffffff"/>
+ 
+<meta name="color:Scrollbar" content="#ffd1b0"/>
+<meta name="color:Scrollbar Background" content="#ffffff"/>
+<meta name="color:Back To Top Text" content="#ffffff"/>
+<meta name="color:Back To Top BG" content="#d2ad8b"/>
+ 
+<meta name="font:Entries" content="Helvetica Neue, Arial, Helvetica, sans-serif"/>
+<meta name="font:Description" content="Helvetica Neue, Arial, Helvetica, sans-serif"/>
+<meta name="font:Permalink" content="News Gothic FS, sans-serif"/>
+ 
+<meta name="image:Main Background" content="https://static.tumblr.com/60258e73e78ddd833e85bd49fac2a5a8/1xjieua/AOsn0ouq0/tumblr_static_pattern-22.png"/>
+<meta name="image:Title Section BG" content="https://static.tumblr.com/94db70a6eed538586c395fc92c32fcb6/1xjieua/BtUn0omrm/tumblr_static_pattern-28.png"/>
+<meta name="image:Sidebar Image" content="https://31.media.tumblr.com/d3b32ca4195f6e4fba98343fbc7604e2/tumblr_inline_n0ypqsskxw1sna172.png"/>
+<meta name="image:Custom Links BG" content="https://static.tumblr.com/90ad8e5ea598956f912d26e9057982fd/1xjieua/cRDn0sz4a/tumblr_static_pattern-1.png"/>
+<meta name="image:Middle BG" content="https://static.tumblr.com/8ec4545a026fbba646905be8e0ac0c50/1xjieua/olOn0ot04/tumblr_static_pattern-30.png"/>
+<meta name="image:Entries Column BG" content="https://static.tumblr.com/37cede077dd0e486c1c3bc4fc109b86c/1xjieua/s64n0szi4/tumblr_static_white_wall_hash-peach.png"/>
+<meta name="image:Permalink BG" content="https://static.tumblr.com/01b4442629b0e47248ff8e7cbabc9f56/1xjieua/bTLn0qask/tumblr_static_pattern-20b.png"/>
+<meta name="image:Music Player Image" content="https://static.tumblr.com/f8f11ddaa9f1b9dc8c84f4854c8814a7/1xjieua/ajSn0w5td/tumblr_static_musicplayer.gif"/>
+<meta name="image:Ask Background" content="https://static.tumblr.com/86e8437430277418f021fa7d07483d4f/1xjieua/7W0n0wlja/tumblr_static_tumblr_static_pattern-20a.png"/>
+ 
+<meta name="text:Entries Text Size" content="12"/>
+<meta name="text:Description Text Size" content="11"/>
+<meta name="text:Permalink Text Size" content="8"/>
+<meta name="text:Subtitle" content="your subtitle here"/>
+<meta name="text:Music Player Code" content=""/>
+ 
+<meta name="text:Custom Links Title" content="more links"/>
+<meta name="text:Thrift" content="thrift"/>
+<meta name="text:http://menageried.tumblr.com/tagged/tumblr" content=""/>
+<meta name="text:Custom Link 2" content="fashion"/>
+<meta name="text:Custom Link 2 URL" content=""/>
+<meta name="text:Custom Link 3" content="food"/>
+<meta name="text:Custom Link 3 URL" content="ramblings"/>
+<meta name="text:Custom Link 4" content=""/>
+<meta name="text:Custom Link 4 URL" content=""/>
+<meta name="text:Custom Link 5" content=""/>
+<meta name="text:Custom Link 5 URL" content=""/>
+<meta name="text:Custom Link 6" content=""/>
+<meta name="text:Custom Link 6 URL" content=""/>
+<meta name="text:Custom Link 7" content=""/>
+<meta name="text:Custom Link 7 URL" content=""/>
+<meta name="text:Custom Link 8" content=""/>
+<meta name="text:Custom Link 8 URL" content=""/>
+<meta name="text:Custom Link 9" content=""/>
+<meta name="text:Custom Link 9 URL" content=""/>
+<meta name="text:Custom Link 10" content=""/>
+<meta name="text:Custom Link 10 URL" content=""/>
+ 
+<meta name="if:Infinite Scroll" content=""/>
+<meta name="if:Grid Theme" content=""/>
+<meta name="if:Posts 400" content=""/>
+<meta name="if:Posts 250" content=""/>
+<meta name="if:Show Tags" content="1"/>
+<meta name="if:Show Captions" content="1"/>
+<meta name="if:Show Reblog" content="1"/>
+<meta name="if:Image Fade" content="1"/>
+<meta name="if:Links Hover Fade" content=""/>
+<meta name="if:Back To Top" content=""/>
+<meta name="if:Inverted Tumblr Icons" content="1"/>
+<meta name="if:Show Middle Background" content="1"/>
+<meta name="if:Show Entries Column BG" content="1"/>
+ 
+<style type="text/css">
+ 
+@font-face {font-family: "tinytots";src: url('https://static.tumblr.com/rmj06l2/Usellxb4i/tinytots.ttf');}
+ 
+/* BACKGROUND */
+ 
+body {
+    background-image: url('https://static.tumblr.com/60258e73e78ddd833e85bd49fac2a5a8/1xjieua/AOsn0ouq0/tumblr_static_pattern-22.png');
+    background-attachment: fixed;
+    background-color: #efefef;
+}
+ 
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #ffd1b0;
+    height: auto;
+}
+ 
+::-webkit-scrollbar-thumb:horizontal {
+    background-color: #ffd1b0;
+    height: auto;
+}
+ 
+::-webkit-scrollbar {
+    height: 5px;
+    width: 5px;
+    background-color: #ffffff;
+}
+ 
+#middlebg {
+    z-index: -1;
+    left: 0px;
+    position: fixed;
+    width: 100%;
+    height: 350px;
+    margin-top: 162px;
+    
+    background-image: url('https://static.tumblr.com/8ec4545a026fbba646905be8e0ac0c50/1xjieua/olOn0ot04/tumblr_static_pattern-30.png');
+    box-shadow: 0px 0px 12px 4px #e9d9c2;
+    background-color: #fffdf4;
+}
+ 
+/* LINKS & MAIN TEXT */
+ 
+a {
+    color: #b49a59;
+    text-decoration: none;
+    
+}
+ 
+a:hover {
+    color: #f3a45b;
+    text-decoration: none;
+}
+ 
+b, strong {
+    color: #89aea7;
+}
+ 
+i, em {
+    color: #da9898;
+}
+ 
+/* SIDEBAR */
+ 
+#sidebar {
+    position: fixed;
+    margin-left: 65px;
+    margin-top: 162px;
+    
+}
+ 
+#sidebarbg {
+    z-index: 1;
+    width: 335px;
+    height: 320px;
+    background-color: #f9f7e0;
+    position: fixed;
+    padding: 15px;
+    margin-top: 43px;
+}
+ 
+#title {
+    width: 260px;
+    padding: 20px 10px 20px 10px;
+    font-family: Oranienbaum;
+    font-size: 18px;
+    background-color: #ffffff;
+    color: #836363;
+    text-align: center;
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    letter-spacing: 1px;
+    border: 2px solid #cec6c6;
+    box-shadow: 0px 0px 0px 4px #ffffff;
+}
+ 
+#title a {
+    text-decoration: none;
+    color: #836363;
+}
+ 
+#titlebg {
+    background-color: #f6bebe;
+    background-image: url('https://static.tumblr.com/94db70a6eed538586c395fc92c32fcb6/1xjieua/BtUn0omrm/tumblr_static_pattern-28.png');
+    width: 355px;
+    padding: 5px;
+    margin-top: -15px;
+    margin-left: -15px;
+    position: fixed;
+}
+ 
+#subtitle {
+    font-family: helvetica neue;
+    font-size: 9px;
+    text-transform: uppercase;
+    color: #b7b7b7;
+}
+ 
+#sidebarplace {
+    margin-top: 130px;
+}
+ 
+#sidebarimg {
+    position: fixed;
+}
+ 
+#sidebarimg img {
+    max-width: 150px;
+    border: 10px solid #dec5c5;
+}
+ 
+#description {
+    position: fixed;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    width: 130px;
+    height: 146px;
+    overflow: auto;
+    padding: 12px;
+    background-color: #eae6e6;
+    color: #938b8b;
+    margin-left: 180px;
+    font-size: 11px;
+    text-align: justify;
+}
+ 
+/* CUSTOM LINKS */
+ 
+#sidebarbottom {
+    background-color: #e5efdd;
+    background-image: url('https://static.tumblr.com/90ad8e5ea598956f912d26e9057982fd/1xjieua/cRDn0sz4a/tumblr_static_pattern-1.png');
+    width: 335px;
+    padding: 15px;
+    margin-top: 205px;
+    margin-left: -15px;
+    position: fixed;
+    text-align: center;
+}
+ 
+select {
+    border: 0;
+    color: #b09a87;
+    background-color: #eeeadb;
+    font-size: 10px;
+    font-family: consolas;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    width: 335px;
+    padding: 5px 20px 5px 20px;
+    box-shadow: 0px 0px 0px 4px #eeeadb;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    text-shadow: 1px 1px 1px #ffffff;
+    -webkit-appearance: none;
+}
+ 
+/* NAVIGATION */
+ 
+#animals {
+    margin-top: -43px;
+    margin-left: 58px;
+}
+ 
+/* -- NAVIGATION - CAT -- */
+ 
+#cat { position: fixed; height: 45px; width: 55px; background-color: #de7468; border-radius: 55px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; }
+ 
+#cat:hover { margin-top: -57px; }
+ 
+#catear1 { position: fixed; margin-top: -6px; margin-left: 6px; color: #de7468; -webkit-transform: rotate(200deg); -moz-transform: rotate(200deg); -o-transform: rotate(200deg); font-size: 15px; }
+ 
+#catear2 { position: fixed; margin-top: -6px; margin-left: 35px; color: #de7468; -webkit-transform: rotate(247deg); -moz-transform: rotate(247deg); -o-transform: rotate(247deg); font-size: 15px; }
+ 
+#cateye1 { margin-top: 18px; margin-left: 13px; position: fixed; width: 4px; height: 4px; border-radius: 10px; background-color: #905252; }
+ 
+#cateye2 { margin-top: 18px; margin-left: 37px; position: fixed; width: 4px; height: 4px; border-radius: 10px; background-color: #905252; }
+ 
+#catnose { position: fixed; font-size: 6px; margin-left: 23px; margin-top: 20px; color: #905252; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); }
+ 
+#catmouth1 { width: 2px; height: 3px; position: fixed; margin-left: 26px; margin-top: 27px; background-color: #905252; }
+ 
+#catmouth2 { width: 2px; height: 5px; position: fixed; margin-left: 24px; margin-top: 29px; background-color: #905252; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); }
+ 
+#catmouth3 { width: 2px; height: 5px; position: fixed; margin-left: 28px; margin-top: 29px; background-color: #905252; -webkit-transform: rotate(135deg); -moz-transform: rotate(135deg); -o-transform: rotate(135deg); }
+ 
+#catwhisker1 { width: 2px; height: 8px; margin-top: 22px; margin-left: 10px; position: fixed; background-color: #905252; border-radius: 20px; -webkit-transform: rotate(100deg); -moz-transform: rotate(100deg); -o-transform: rotate(100deg); }
+ 
+#catwhisker2 { width: 2px; height: 8px; margin-top: 26px; margin-left: 10px; position: fixed; background-color: #905252; border-radius: 20px; -webkit-transform: rotate(260deg); -moz-transform: rotate(260deg); -o-transform: rotate(260deg); }
+ 
+#catwhisker3 { width: 2px; height: 8px; margin-top: 22px; margin-left: 42px; position: fixed; background-color: #905252; border-radius: 20px; -webkit-transform: rotate(80deg); -moz-transform: rotate(80deg); -o-transform: rotate(80deg); }
+ 
+#catwhisker4 { width: 2px; height: 8px; margin-top: 26px; margin-left: 42px; position: fixed; background-color: #905252; border-radius: 20px; -webkit-transform: rotate(100deg); -moz-transform: rotate(100deg); -o-transform: rotate(100deg); }
+ 
+#catbody { width: 41px; height: 80px; margin-top: 20px; margin-left: 7px; background-color: #de7468; }
+ 
+#catbody2 { width: 39px; height: 21px; margin-top: -45px; margin-left: 3px; background-color: #f8f3dd; -webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -o-transform: rotate(270deg); padding-top: 3px; padding-left: 5px; padding-right: 5px; padding-bottom: 5px; text-align: center; }
+ 
+#catbody2 a { font-family: tinytots; font-size: 8px; letter-spacing: 2px; text-decoration: none; text-transform: uppercase; color: #ae4747; }
+ 
+/* -- NAVIGATION - RABBIT -- */
+ 
+#rabbit { position: fixed; height: 45px; width: 55px; background-color: #f99d9d; border-radius: 55px; margin-left: 65px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; }
+ 
+#rabbit:hover { margin-top: -57px; }
+ 
+#rabbitear1 { width: 20px; height: 40px; position: fixed; margin-top: -16px; margin-left: 5px; background-color: #f99d9d; font-size: 15px; border-top-left-radius: 20px; border-top-right-radius: 20px; }
+ 
+#rabbitear2 { width: 20px; height: 40px; position: fixed; margin-top: -16px; margin-left: 30px; background-color: #f99d9d; font-size: 15px; border-top-left-radius: 20px; border-top-right-radius: 20px; }
+ 
+#rabbiteye1 { margin-top: 18px; margin-left: 13px; position: fixed; width: 4px; height: 4px; border-radius: 10px; background-color: #bb6363; }
+ 
+#rabbiteye2 { margin-top: 18px; margin-left: 37px; position: fixed; width: 4px; height: 4px; border-radius: 10px; background-color: #bb6363; }
+ 
+#rabbitnose { position: fixed; font-size: 6px; margin-left: 23px; margin-top: 20px; color: #bb6363; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); }
+ 
+#rabbitmouth1 { width: 2px; height: 3px; position: fixed; margin-left: 26px; margin-top: 27px; background-color: #bb6363; }
+ 
+#rabbitmouth2 { width: 2px; height: 5px; position: fixed; margin-left: 24px; margin-top: 29px; background-color: #bb6363; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); }
+ 
+#rabbitmouth3 { width: 2px; height: 5px; position: fixed; margin-left: 28px; margin-top: 29px; background-color: #bb6363; -webkit-transform: rotate(135deg); -moz-transform: rotate(135deg); -o-transform: rotate(135deg); }
+ 
+#rabbitbody { width: 41px; height: 80px; margin-top: 20px; margin-left: 7px; background-color: #f99d9d; }
+ 
+#rabbitbody2 { width: 39px; height: 21px; margin-top: -45px; margin-left: 3px; background-color: #f8f3dd; -webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -o-transform: rotate(270deg); padding-top: 3px; padding-left: 5px; padding-right: 5px; padding-bottom: 5px; text-align: center; }
+ 
+#rabbitbody2 a { font-family: tinytots; font-size: 8px; letter-spacing: 1px; text-decoration: none; text-transform: uppercase; color: #e97171; }
+ 
+/* -- NAVIGATION - BEAR -- */
+ 
+#bear { position: fixed; height: 45px; width: 55px; background-color: #a3cfc8; border-radius: 55px; margin-left: 130px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; }
+ 
+#bear:hover { margin-top: -57px; }
+ 
+#bearear1 { width: 20px; height: 20px; position: fixed; margin-top: -5px; margin-left: -1px; background-color: #a3cfc8; font-size: 15px; border-radius: 20px; }
+ 
+#bearear2 { width: 20px; height: 20px; position: fixed; margin-top: -5px; margin-left: 35px; background-color: #a3cfc8; font-size: 15px; border-radius: 20px; }
+ 
+#beareye1 { margin-top: 18px; margin-left: 13px; position: fixed; width: 4px; height: 4px; border-radius: 10px; background-color: #729588; }
+ 
+#beareye2 { margin-top: 18px; margin-left: 37px; position: fixed; width: 4px; height: 4px; border-radius: 10px; background-color: #729588; }
+ 
+#bearnose { width: 4px; height: 4px; position: fixed; margin-left: 25px; margin-top: 23px; background-color: #729588; border-radius: 10px; }
+ 
+#bearmouth1 { width: 2px; height: 3px; position: fixed; margin-left: 26px; margin-top: 27px; background-color: #729588; }
+ 
+#bearmouth2 { width: 2px; height: 5px; position: fixed; margin-left: 24px; margin-top: 29px; background-color: #729588; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); }
+ 
+#bearmouth3 { width: 2px; height: 5px; position: fixed; margin-left: 28px; margin-top: 29px; background-color: #729588; -webkit-transform: rotate(135deg); -moz-transform: rotate(135deg); -o-transform: rotate(135deg); }
+ 
+#bearbody { width: 41px; height: 80px; margin-top: 20px; margin-left: 7px; background-color: #a3cfc8; }
+ 
+#bearbody2 { width: 39px; height: 21px; margin-top: -45px; margin-left: 3px; background-color: #f8f3dd; -webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -o-transform: rotate(270deg); padding-top: 3px; padding-left: 5px; padding-right: 5px; padding-bottom: 5px;text-align: center; }
+ 
+#bearbody2 a { font-family: tinytots; font-size: 8px; letter-spacing: 1px; text-decoration: none; text-transform: uppercase; color: #86b4a1; }
+ 
+/* -- NAVIGATION - PANDA -- */
+ 
+#panda { position: fixed; height: 45px; width: 55px; background-color: #c5c5c5; border-radius: 55px; margin-left: 195px; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; }
+ 
+#panda:hover { margin-top: -57px; }
+ 
+#pandaear1 { width: 20px; height: 20px; position: fixed; margin-top: -5px; margin-left: -1px; background-color: #c5c5c5; font-size: 15px; border-radius: 20px; }
+ 
+#pandaear2 { width: 20px; height: 20px; position: fixed; margin-top: -5px; margin-left: 35px; background-color: #c5c5c5; font-size: 15px; border-radius: 20px; }
+ 
+#pandaeye1 { margin-top: 17px; margin-left: 9px; position: fixed; width: 12px; height: 8px; border-radius: 10px; background-color: #858585; -webkit-transform: rotate(150deg); -moz-transform: rotate(150deg); -o-transform: rotate(150deg); }
+ 
+#pandaeye2 { margin-top: 17px; margin-left: 33px; position: fixed; width: 12px; height: 8px; border-radius: 10px; background-color: #858585; -webkit-transform: rotate(210deg); -moz-transform: rotate(210deg); -o-transform: rotate(210deg); }
+ 
+#pandanose { width: 4px; height: 4px; position: fixed; margin-left: 25px; margin-top: 23px; background-color: #858585; border-radius: 10px; }
+ 
+#pandamouth1 { width: 2px; height: 3px; position: fixed; margin-left: 26px; margin-top: 27px; background-color: #858585; }
+ 
+#pandamouth2 { width: 2px; height: 5px; position: fixed; margin-left: 24px; margin-top: 29px; background-color: #858585; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); }
+ 
+#pandamouth3 { width: 2px; height: 5px; position: fixed; margin-left: 28px; margin-top: 29px; background-color: #858585; -webkit-transform: rotate(135deg); -moz-transform: rotate(135deg); -o-transform: rotate(135deg); }
+ 
+#pandabody { width: 41px; height: 80px; margin-top: 20px; margin-left: 7px; background-color: #c5c5c5; }
+ 
+#pandabody2 { width: 39px; height: 21px; margin-top: -45px; margin-left: 3px; background-color: #f8f3dd;-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -o-transform: rotate(270deg); padding-top: 3px; padding-left: 5px; padding-right: 5px; padding-bottom: 5px; text-align: center; }
+ 
+#pandabody2 a { font-family: tinytots; font-size: 8px; letter-spacing: 2px; text-decoration: none; text-transform: uppercase; color: #9a9a9a; }
+ 
+/* ENTRIES */
+ 
+#container {
+    margin-left: 530px;
+    
+    
+    width: 500px;
+}
+ 
+#entriesbg {
+    z-index: -1;
+    position: fixed;
+    height: 100%;
+    width: 590px;
+    
+    
+    background-color: #fdefe1;
+    background-image: url('https://static.tumblr.com/37cede077dd0e486c1c3bc4fc109b86c/1xjieua/s64n0szi4/tumblr_static_white_wall_hash-peach.png');
+    top: 0px;
+    margin-left: -35px;
+    
+    border-left: 2px dotted #f2c0c0;
+    border-right: 2px dotted #f2c0c0;
+    width: 590px;
+}
+ 
+.entry {
+    top: -5px;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    position: relative;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 0px 10px #ffffff;
+    border: 2px dotted #f4e6e6;
+    color: #737373;
+    width: 500px;
+    
+    
+    
+    width: 500px;
+    
+    padding: 10px;
+    margin-top: 40px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: justify;
+}
+ 
+.entry img {
+    max-width: 100%;
+}
+ 
+#entrytitle {
+    font-family: Oranienbaum;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 3px;
+    color: #7e4343;
+    background-color: #f5d1d1;
+    border: 1px solid #ffffff;
+    box-shadow: 0px 0px 0px 4px #f5d1d1;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+ 
+#entrytitle1 {
+    font-family: Oranienbaum;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 3px;
+    background-color: #dbefd6;
+    border: 1px solid #ffffff;
+    box-shadow: 0px 0px 0px 4px #dbefd6;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+ 
+#entrytitle1 a {
+    color: #6d9353;
+    text-decoration: none;
+}
+ 
+#entrytitle1 a:hover {
+    color: #7ab99a;
+}
+ 
+blockquote {
+    border-left: 5px solid #f2d0a1;
+    color: #859452;
+    padding: 0px 5px 0px 5px;
+}
+ 
+/* PERMALINK */
+ 
+#permalink {
+    padding: 5px;
+    font-family: News Gothic FS, sans-serif;
+    text-transform: uppercase;
+    font-size: 8px;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 16px;
+    color: #6a5240;
+    background-color: #f2f8e9;
+    border-radius: 60px;
+    margin-top: 10px;
+    background-image: url('https://static.tumblr.com/01b4442629b0e47248ff8e7cbabc9f56/1xjieua/bTLn0qask/tumblr_static_pattern-20b.png');
+}
+ 
+#permalink a {
+    color: #a25e37;
+}
+ 
+#permalink a:hover {
+    color: #e96c3f;
+}
+ 
+span.time {
+    padding: 2px;
+    background-color: #d8e6a1;
+}
+ 
+span.notes {
+    padding: 2px;
+    background-color: #fccbcb;
+}
+ 
+span.reblog {
+    padding: 2px;
+    background-color: #fad3a3;
+}
+ 
+span.tags {
+    padding: 2px;
+    background-color: #cceddb;
+}
+ 
+span.source {
+    padding: 2px;
+    background-color: #e4cbec;
+}
+ 
+ol.notes {
+    margin-top: 20px;
+    margin-left: -25px;
+    padding-bottom: 5px;
+    font-size: 9px;
+    text-align: left;
+    list-style-type: none;
+    letter-spacing: 1px;
+    max-height: 250px;
+    overflow: auto;
+}
+ 
+ol.notes img {
+    margin-right: 5px;
+}
+ 
+/* PAGINATION */
+ 
+#pagination {
+    bottom: -75px;
+    
+    margin-left: -35px;
+    position: absolute;
+    z-index: 9999;
+    font-family: helvetica neue;
+    font-size: 10px;
+    padding: 2px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+    
+    
+    width: 590px;
+    
+}
+ 
+#pagination a {
+    display: inline-block;
+    font-size: 10px;
+    padding: 3px 5px 3px 5px;
+    margin: 2px;
+    margin-bottom: 10px;
+    background-color: #a6cea8;
+    text-align: center;
+    color: #ffffff;
+    
+}
+ 
+span.pagination {
+    padding: 3px 5px 3px 5px;
+    background-color: #ffffff;
+    color: #c08662;
+}
+ 
+/* CHAT */
+ 
+#label {
+    background-color: #eedede;
+    color: #8e4e4e;
+    padding: 3px;
+    
+    min-width: 80px;
+    width: 80px;
+}
+ 
+#line {
+    background-color: #efefdf;
+    color: #978667;
+    padding: 3px;
+    
+    min-width: 400px;
+    width: 400px;
+}
+ 
+/* QUOTE */
+ 
+#quote {
+    font-family: Oranienbaum;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 10px 12px 10px 12px;
+}
+ 
+/* AUDIO */
+ 
+#audio img {
+    width: 80px;
+    float: left;
+    padding: 5px;
+    background-color: #ffffff;
+    border: 2px solid #f4e6e6;
+    margin: 0px 10px 5px 0px;
+}
+ 
+#player {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    overflow: hidden;
+    margin: 34px 0px 0px 34px;
+    opacity: 0.6;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+ 
+#player:hover {
+    opacity: 1;
+}
+ 
+/* ASK */
+ 
+#portrait img {
+    float: left;
+    border-radius: 20px;
+}
+ 
+#ask {
+    background-color: #fbe5e5;
+    background-image: url('https://static.tumblr.com/86e8437430277418f021fa7d07483d4f/1xjieua/7W0n0wlja/tumblr_static_tumblr_static_pattern-20a.png');
+    margin-left: 45px;
+    padding: 10px;
+    color: #a87b7b;
+    border-radius: 20px;
+}
+ 
+span.ask {
+    padding: 3px;
+    margin: 3px;
+    background-color: #e6acac;
+    color: #ffffff;
+}
+ 
+#ask a {
+    color: #ffffff;
+}
+ 
+/* PHOTO HOVER */
+ 
+.photo {
+    opacity: .7;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+ 
+.photo:hover {
+    opacity: 1;
+}
+ 
+.entry img {
+    opacity: .7;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+ 
+.entry img:hover {
+    opacity: 1;
+}
+ 
+/* BACK TO TOP */
+ 
+.top {
+    font-size: 8px;
+    font-family: consolas;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+ 
+.top a {
+    color: #ffffff;
+}
+ 
+#scrollToTop:link, #scrollToTop:visited {
+    z-index: 9999;
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 40px;
+    padding: 3px;
+    background-color: #d2ad8b;
+}
+ 
+/* MUSIC PLAYER */
+ 
+#musicplayer {
+    position: fixed;
+    width: 28px;
+    height: 55px;
+    margin-left: 3px;
+    overflow: hidden;
+    background-color: #c6bcdc;
+    margin-top: -25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    border: 1px solid #ffffff;
+    box-shadow: 0px 0px 0px 3px #c6bcdc;
+}
+ 
+#musicplayer img {
+    margin: 8px 0px 0px 7px;
+}
+ 
+#musicplayer:hover {
+    margin-top: -55px;
+}
+ 
+/* TUMBLR STUFF */
+ 
+iframe#tumblr_controls {
+    right: 3px !important;
+    position: fixed !important;
+    opacity: 0.2;
+    white-space: nowrap;
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%);
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%);
+    filter: invert(100%);
+    -webkit-transition: opacity 0.7s linear;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+ 
+iframe#tumblr_controls:hover {
+    opacity: 0.7;
+}
+ 
+#credit {
+    position: fixed;
+    bottom: 8px;
+    left: 8px;
+    font-size: 10px;
+}
+ 
+#credit a {
+    color: #aaa;
+    text-shadow: 1px 1px 1px #fff;
+}
+ 
+</style>
+ 
+
+ 
+
+ 
+
+
+
+ 
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=anthologicall%26postID=123126761745" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=anthologicall&postID=123126761745" /><link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=https://anthologicall.tumblr.com/post/123126761745/gyudon-as-it-stands-is-like-ultimate-comfort-food" title="Gyudon as it stands is like ultimate comfort food. A hearty bowl of beef, onion, potatoes and rice. It&rsquo;s like coming home to someone stroking back your hair (or your preferred type of endearment) after a trying day. You know that image of sitting..."/><link rel="amphtml" href=https://anthologicall.tumblr.com/post/123126761745/gyudon-as-it-stands-is-like-ultimate-comfort-food/amp /><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><meta name="keywords" content="shokugeki no soma,shokugeki no souma,food,foodporn,recipe" /><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="Projected Space" /><meta property="og:title" content="Projected Space" /><meta property="og:description" content="Gyudon as it stands is like ultimate comfort food. A hearty bowl of beef, onion, potatoes and rice. It&#039;s like coming home to someone stroking back your hair (or your preferred type of endearment)..." /><meta property="og:url" content="https://anthologicall.tumblr.com/post/123126761745/gyudon-as-it-stands-is-like-ultimate-comfort-food" /><meta property="og:type" content="photoset" /><meta property="og:determiner" content="a" /><meta property="og:image" content="https://64.media.tumblr.com/5c9e52a0990d195108c8fdd0a5640bda/tumblr_nqx3dbMMQ01tadtffo1_1280.png" /><meta property="og:image:secure_url" content="https://64.media.tumblr.com/5c9e52a0990d195108c8fdd0a5640bda/tumblr_nqx3dbMMQ01tadtffo1_1280.png" /><meta property="og:image:type" content="image/png" /><meta property="og:image:width" content="1280" /><meta property="og:image:height" content="914" /><meta property="og:image" content="https://64.media.tumblr.com/9b1e8e670eec4710d79e7b878e08b59d/tumblr_nqx3dbMMQ01tadtffo2_540.gifv" /><meta property="og:image:secure_url" content="https://64.media.tumblr.com/9b1e8e670eec4710d79e7b878e08b59d/tumblr_nqx3dbMMQ01tadtffo2_540.gifv" /><meta property="og:image:type" content="image/webp" /><meta property="og:image:width" content="540" /><meta property="og:image:height" content="250" /><meta property="og:image" content="https://44.media.tumblr.com/9b1e8e670eec4710d79e7b878e08b59d/tumblr_nqx3dbMMQ01tadtffo2_540.gif" /><meta property="og:image:secure_url" content="https://44.media.tumblr.com/9b1e8e670eec4710d79e7b878e08b59d/tumblr_nqx3dbMMQ01tadtffo2_540.gif" /><meta property="og:image:type" content="image/webp" /><meta property="og:image:width" content="540" /><meta property="og:image:height" content="250" /><meta property="og:image" content="https://64.media.tumblr.com/e5811e6d6a8b3b473a6c1de6407a119f/tumblr_inline_nqx2guSoWw1rpjqoj_1280.png" /><meta property="og:image:secure_url" content="https://64.media.tumblr.com/e5811e6d6a8b3b473a6c1de6407a119f/tumblr_inline_nqx2guSoWw1rpjqoj_1280.png" /><meta property="og:image:type" content="image/png" /><meta property="og:image:width" content="1280" /><meta property="og:image:height" content="926" /><meta property="og:image" content="https://64.media.tumblr.com/c471aeea5418010317491dc1b4f0c1ea/tumblr_inline_nqx2lces8E1rpjqoj_1280.png" /><meta property="og:image:secure_url" content="https://64.media.tumblr.com/c471aeea5418010317491dc1b4f0c1ea/tumblr_inline_nqx2lces8E1rpjqoj_1280.png" /><meta property="og:image:type" content="image/png" /><meta property="og:image:width" content="1280" /><meta property="og:image:height" content="889" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=anthologicall&amp;postID=123126761745" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=anthologicall&amp;postID=123126761745" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="anthologicall" /><meta name="twitter:description" content="Gyudon as it stands is like ultimate comfort food. A hearty bowl of beef, onion, potatoes and rice. It&rsquo;s like coming home to someone stroking back your hair (or your preferred type of endearment)..." /><meta name="twitter:image" content="https://64.media.tumblr.com/5c9e52a0990d195108c8fdd0a5640bda/tumblr_nqx3dbMMQ01tadtffo1_500.png" /><meta name="twitter:url" content="https://anthologicall.tumblr.com/post/123126761745/gyudon-as-it-stands-is-like-ultimate-comfort-food" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=anthologicall&amp;postID=123126761745&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=anthologicall&amp;postID=123126761745&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=anthologicall&amp;postID=123126761745&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"SocialMediaPosting","url":"https:\/\/anthologicall.tumblr.com\/post\/123126761745\/gyudon-as-it-stands-is-like-ultimate-comfort-food","mainEntityOfPage":true,"datePublished":"2015-07-03T16:40:51+00:00","author":"anthologicall","image":{"@list":["https:\/\/64.media.tumblr.com\/5c9e52a0990d195108c8fdd0a5640bda\/tumblr_nqx3dbMMQ01tadtffo1_1280.png","https:\/\/64.media.tumblr.com\/9b1e8e670eec4710d79e7b878e08b59d\/tumblr_nqx3dbMMQ01tadtffo2_540.gifv"]},"articleBody":"Gyudon as it stands is like ultimate comfort food. A hearty bowl of beef, onion, potatoes and rice. It\u2019s like coming home to someone stroking back your hair (or your preferred type of endearment) after a trying day. You know that image of sitting cross-legged whilst you\u2019re clutching a steaming bowl...","@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://anthologicall.tumblr.com/post/123126761745/gyudon-as-it-stands-is-like-ultimate-comfort-food" /></head><body>
+ 
+<div id="middlebg"></div>
+ 
+<div id="sidebar">
+ 
+
+ 
+<div id="animals">
+<div id="cat">
+<div id="catear1">◢</div><div id="catear2">◢</div>
+<div id="cateye1"></div><div id="cateye2"></div>
+<div id="catnose">◢</div>
+<div id="catmouth1"></div><div id="catmouth2"></div><div id="catmouth3"></div>
+<div id="catwhisker1"></div><div id="catwhisker2"></div><div id="catwhisker3"></div><div id="catwhisker4"></div>
+<div id="catbody"></div><div id="catbody2"><a href="/">home</a></div>
+</div>
+ 
+<div id="rabbit">
+<div id="rabbitear1"></div><div id="rabbitear2"></div>
+<div id="rabbiteye1"></div><div id="rabbiteye2"></div>
+<div id="rabbitnose">◢</div>
+<div id="rabbitmouth1"></div><div id="rabbitmouth2"></div><div id="rabbitmouth3"></div>
+<div id="rabbitbody"></div><div id="rabbitbody2"><a href="/ask">message</a></div>
+</div>
+ 
+<div id="bear">
+<div id="bearear1"></div><div id="bearear2"></div>
+<div id="beareye1"></div><div id="beareye2"></div>
+<div id="bearnose"></div>
+<div id="bearmouth1"></div><div id="bearmouth2"></div><div id="bearmouth3"></div>
+<div id="bearbody"></div><div id="bearbody2"><a href="/archive">archive</a></div>
+</div>
+ 
+<div id="panda">
+<div id="pandaear1"></div><div id="pandaear2"></div>
+<div id="pandaeye1"></div><div id="pandaeye2"></div>
+<div id="pandanose"></div>
+<div id="pandamouth1"></div><div id="pandamouth2"></div><div id="pandamouth3"></div>
+<div id="pandabody"></div><div id="pandabody2"><a href="http://www.cocorini.com">theme</a></div>
+</div>
+</div>
+ 
+<div id="sidebarbg">
+<div id="titlebg"><div id="title"><a href="/">Projected Space</a><div id="subtitle">Nonsensical Blabber </div></div></div>
+<div id="sidebarplace">
+<div id="sidebarimg"><img src="https://static.tumblr.com/4046c7ea6d086c5cbeaaf12d7f1e4794/emu2wfr/O8Nn93ic5/tumblr_static_26g5q3r1a7gkgo4c8so4csww0.png"></div>
+<div id="description"><p>Inner workings of my nonsensical thought processes. I thrift. I cook. I fangirl over Agents of S.H.I.E.L.D and Elementary. Oh, I recreate the odd recipe or two. Find more ramblings here: <a href="http://www.whimsicalzoo.blogspot.com">www.whimsicalzoo.blogspot.com</a></p></div></div>
+ 
+
+ 
+<option value="">extra link 2</option>
+ 
+<option value="">extra link 3</option>
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+</select>
+ 
+</div>
+</div>
+ 
+</div>
+</div>
+ 
+<div id="container">
+<div id="entriesbg"></div>
+ 
+
+<div class="entry">
+ 
+
+ 
+
+ 
+
+
+<div class="photo"><div id="photoset_123126761745" class="html_photoset">    <iframe
+                id="photoset_iframe_123126761745" name="photoset_iframe_123126761745"
+                class="photoset" scrolling="no" frameborder="0"
+                height="598" width="500" style="border:0; background-color:transparent; overflow:hidden;" src="/post/123126761745/photoset_iframe/anthologicall/tumblr_nqx3dbMMQ01tadtff/500/false"
+                onload=""
+            ></iframe></div></div>
+<p>Gyudon as it stands is like ultimate comfort food. A hearty bowl of beef, onion, potatoes and rice. It&rsquo;s like coming home to someone stroking back your hair (or your preferred type of endearment) after a trying day. You know that image of sitting cross-legged whilst you&rsquo;re clutching a steaming bowl of rice in your hands, close to yourself? Admittedly not the oddest thing I&rsquo;ve waxed lyrical about. But fortunately for you, this food epitome of a warm hug would most likely be sitting de-constructed in your fridge right now!</p><p><b>Gyudon Recipe</b></p><figure data-orig-width="1600" data-orig-height="1157" class="tmblr-full"><img src="https://64.media.tumblr.com/e5811e6d6a8b3b473a6c1de6407a119f/tumblr_inline_nqx2guSoWw1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1157" width="500" height="362" /></figure><p>100-200g thinly sliced beef,&nbsp;1 onion,&nbsp;1 tblsp cornstarch,&nbsp;1 potato,&nbsp;1 tblsp sugar <br />2 tblsp soy sauce,&nbsp;3cm piece of daikon,&nbsp;Parsley,&nbsp;Bowl of rice,&nbsp;1 tblsp sake,&nbsp;1/2 tsp salt,&nbsp;Pepper</p><figure data-orig-width="1452" data-orig-height="1008" class="tmblr-full"><img src="https://64.media.tumblr.com/c471aeea5418010317491dc1b4f0c1ea/tumblr_inline_nqx2lces8E1rpjqoj_500.png" alt="image" data-orig-width="1452" data-orig-height="1008" width="500" height="347" /></figure><figure data-orig-width="1600" data-orig-height="1209" class="tmblr-full"><img src="https://64.media.tumblr.com/4d342a006519e2b11d78f47716c91083/tumblr_inline_nqx2m7RBf31rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1209" width="500" height="378" /></figure><p>Season sliced beef with 1 tblsp sake, 1/2tsp salt and pepper. Mix well with cornstarch. <br /></p><figure data-orig-width="1600" data-orig-height="1009" class="tmblr-full"><img src="https://64.media.tumblr.com/cb1dccc32c831800e3bc86551b8f14b1/tumblr_inline_nqx2nxJMfh1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1009" width="500" height="315" /></figure><p>Slice onions into wedges and potatoes into batons. <br /></p><figure data-orig-width="1600" data-orig-height="1023" class="tmblr-full"><img src="https://64.media.tumblr.com/2797836fbc275ae5a7e1774a56d1bd69/tumblr_inline_nqx2pxkPXp1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1023" width="500" height="320" /></figure><p>Cook in a (very important), nonstick frying pan until soft. <br /></p><figure data-orig-width="1600" data-orig-height="1131" class="tmblr-full"><img src="https://64.media.tumblr.com/874f2467c20f4230adf1b7109ffa1335/tumblr_inline_nqx2qyltbb1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1131" width="500" height="353" /></figure><p>Peel daikon and grate with the smallest form (which is surprisingly easy, Daikon isn&rsquo;t as hard as it looks)<br /></p><figure data-orig-width="1600" data-orig-height="1075" class="tmblr-full"><img src="https://64.media.tumblr.com/d554947165461ca799bbc54ae301dfa9/tumblr_inline_nqx2smofnQ1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1075" width="500" height="336" /></figure><figure data-orig-width="1600" data-orig-height="1077" class="tmblr-full"><img src="https://64.media.tumblr.com/abaa87ce500a4278449ae4e0a30c83da/tumblr_inline_nqx2thnSym1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1077" width="500" height="337" /></figure><p>Squeeze out excess water. Isn&rsquo;t t cute? It looks like it would roll forward, forming eyes and ears and attack you headfirst. <br /></p><figure data-orig-width="1600" data-orig-height="1067" class="tmblr-full"><img src="https://64.media.tumblr.com/329e75af2828788798bf776e57094fb0/tumblr_inline_nqx2ym0F4A1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1067" width="500" height="333" /></figure><p>Add beef to the pan and cook thoroughly. (Nonstick! Cornstarch sticks otherwise! You can tell by the degree of emphasis that I did <i>not</i> use a nonstick pan)</p><figure data-orig-width="1600" data-orig-height="1067" class="tmblr-full"><img src="https://64.media.tumblr.com/9ef6e46241306e75c41d17089c826661/tumblr_inline_nqx2zmAZjW1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1067" width="500" height="333" /></figure><p>Add 1 tblsp sugar and 2 tblsp soy sauce, which will thicken glossily. And thank god for perfect days where the sun hits the exact spot to make your cooking appear more ethereal than it actually is. This is also where the aroma of warmth begins. <br /></p><figure data-orig-width="1600" data-orig-height="1151" class="tmblr-full"><img src="https://64.media.tumblr.com/81c490d525a30207d21286e7ebf72ea7/tumblr_inline_nqx31eDAqu1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1151" width="500" height="360" /></figure><figure data-orig-width="1600" data-orig-height="1189" class="tmblr-full"><img src="https://64.media.tumblr.com/0aafa9a5f279846f061fb66ab128d7db/tumblr_inline_nqx3249YZi1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1189" width="500" height="372" /></figure><p>Top with rice, add daikon garnish (which provides a refreshing element to cut through the hearty ingredients) and top with parsley. <br /></p><figure data-orig-width="1600" data-orig-height="1214" class="tmblr-full"><img src="https://64.media.tumblr.com/f25cb31f8cf915efa484a6069ef15b60/tumblr_inline_nqx395Rl071rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1214" width="500" height="379" /></figure><p>Go eat and cry that a bowl of rice is what consoles your deadened spirit way better than any friend can. <br /></p><figure data-orig-width="1600" data-orig-height="1177" class="tmblr-full"><img src="https://64.media.tumblr.com/6dda5378d2c78249e2ff28d23801a14e/tumblr_inline_nqx3aalkjf1rpjqoj_500.png" alt="image" data-orig-width="1600" data-orig-height="1177" width="500" height="368" /></figure><p>(Source: <a href="https://href.li/?http://www.whimsicalzoo.blogspot.com" title="whimsicalzoo.blogspot.com">whimsicalzoo.blogspot.com</a>)</p>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="permalink"><span class="time"><img src="http://media.tumblr.com/tumblr_m2l4z2LGF51r92csh.gif"> <a href="https://anthologicall.tumblr.com/post/123126761745/gyudon-as-it-stands-is-like-ultimate-comfort-food">2:40am Sat 4th Jul 2015</a></span> <span class="notes"><img src="http://media.tumblr.com/tumblr_m2n9rxQdgx1rnjuep.png"> <a href="https://anthologicall.tumblr.com/post/123126761745/gyudon-as-it-stands-is-like-ultimate-comfort-food">579 notes</a></span>
+
+<br><span class="tags"><a href="https://anthologicall.tumblr.com/tagged/Shokugeki%20no%20Soma"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> Shokugeki no Soma</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/shokugeki%20no%20souma"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> shokugeki no souma</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/food"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> food</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/foodporn"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> foodporn</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/recipe"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> recipe</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/anme"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> anme</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/japanese"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> japanese</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/gyudon"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> gyudon</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/ep%206"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> ep 6</a></span> <span class="tags"><a href="https://anthologicall.tumblr.com/tagged/soma%20yukihira"><img src="http://media.tumblr.com/tumblr_m2n9rtOtpC1rnjuep.png"> soma yukihira</a></span> 
+</div>
+
+<ol class="notes"><!-- START NOTES --><li class="note reblog tumblelog_leichenpuppe without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://leichenpuppe.tumblr.com/" title="寝て暮らすんだ！"><img src="https://64.media.tumblr.com/avatar_4238fd26768f_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://leichenpuppe.tumblr.com/post/641165039767896064"><a rel="nofollow" href="https://leichenpuppe.tumblr.com/post/641165039767896064" class="tumblelog" title="寝て暮らすんだ！">leichenpuppe</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_iceskatingmobsters without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://iceskatingmobsters.tumblr.com/" title="organs, outside, lovingly described " rel="nofollow"><img src="https://64.media.tumblr.com/d335f99f80eae1f47c88f83ac8660104/d4004bae30198565-17/s16x16u_c1/fbd427485620534acbb078fbff44fcf53d238114.jpg" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://iceskatingmobsters.tumblr.com/" title="organs, outside, lovingly described" rel="nofollow">iceskatingmobsters</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_animationfangirl without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://animationfangirl.tumblr.com/" title="A Manga Translation Blog " rel="nofollow"><img src="https://64.media.tumblr.com/72999a50dd15e2d69c90ee46b6cdf33b/52e37def44a28219-69/s16x16u_c1/ecd245fe0e454743fbc2620b6c89024bdb748b46.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://animationfangirl.tumblr.com/" title="A Manga Translation Blog" rel="nofollow">animationfangirl</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_comicsandcupcakes without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://comicsandcupcakes.tumblr.com/" title="Comics &amp; Cupcakes " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_6f432bb3cfcd_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://comicsandcupcakes.tumblr.com/" title="Comics &amp; Cupcakes" rel="nofollow">comicsandcupcakes</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_phototrapcoffeeyou without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://phototrapcoffeeyou.tumblr.com/" title="Dafftrap"><img src="https://64.media.tumblr.com/d64d08f75f0eb50fe2e32fea7e0f1927/68c06eb88c91b6d3-6e/s16x16u_c1/d2ae016e5428f6846e6bb8cc2f4ca7a591fda94b.jpg" class="avatar " alt="" /></a><span class="action" data-post-url="https://phototrapcoffeeyou.tumblr.com/post/187160473142"><a rel="nofollow" href="https://phototrapcoffeeyou.tumblr.com/post/187160473142" class="tumblelog" title="Dafftrap">phototrapcoffeeyou</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_themightymags without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://themightymags.tumblr.com/" title="Sweet Shop"><img src="https://64.media.tumblr.com/avatar_101d8d6c3434_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://themightymags.tumblr.com/post/181694160146"><a rel="nofollow" href="https://themightymags.tumblr.com/post/181694160146" class="tumblelog" title="Sweet Shop">themightymags</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_nonspectrumlikesfood without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://nonspectrumlikesfood.tumblr.com/" title="i like food"><img src="https://assets.tumblr.com/images/default_avatar/sphere_open_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="https://nonspectrumlikesfood.tumblr.com/post/180907628836"><a rel="nofollow" href="https://nonspectrumlikesfood.tumblr.com/post/180907628836" class="tumblelog" title="i like food">nonspectrumlikesfood</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_nonspectrum without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://nonspectrum.tumblr.com/" title=" " rel="nofollow"><img src="https://64.media.tumblr.com/7daf5427b508091bb36f0fc1f14d7003/3562b25c0d672a4c-6a/s16x16u_c1/e8943b7e362802d1208097fe441b39c4a5485dd6.jpg" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://nonspectrum.tumblr.com/" title="" rel="nofollow">nonspectrum</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_bindlebog without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://bindlebog.tumblr.com/" title="🌻cold man🌻"><img src="https://64.media.tumblr.com/avatar_f9467b9759e9_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://bindlebog.tumblr.com/post/180888376186"><a rel="nofollow" href="https://bindlebog.tumblr.com/post/180888376186" class="tumblelog" title="🌻cold man🌻">bindlebog</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_betweenalivendead without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://betweenalivendead.tumblr.com/" title=" " rel="nofollow"><img src="https://64.media.tumblr.com/132b1f65e4c976b799e677caf9d6221d/03d270c1edeee6db-10/s16x16u_c1/bab3f0e5cbf224dcfff8ffb5a3afe13559b7b231.jpg" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://betweenalivendead.tumblr.com/" title="" rel="nofollow">betweenalivendead</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_curiosityconfusion without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://curiosityconfusion.tumblr.com/" title="CuriosityConfusion " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_04e5aa5b1426_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://curiosityconfusion.tumblr.com/" title="CuriosityConfusion" rel="nofollow">curiosityconfusion</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_lilacsofthedead without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://lilacsofthedead.tumblr.com/" title="Wicked Disgrace"><img src="https://64.media.tumblr.com/avatar_e0d9984a598a_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://lilacsofthedead.tumblr.com/post/180694225404"><a rel="nofollow" href="https://lilacsofthedead.tumblr.com/post/180694225404" class="tumblelog" title="Wicked Disgrace">lilacsofthedead</a> reblogged this from <a rel="nofollow" href="https://ann-ihi-lat-ion.tumblr.com/" class="source_tumblelog" title="welcome to my twisted spine">ann-ihi-lat-ion</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_ann-ihi-lat-ion without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://ann-ihi-lat-ion.tumblr.com/" title="welcome to my twisted spine"><img src="https://64.media.tumblr.com/avatar_512cb7948685_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://ann-ihi-lat-ion.tumblr.com/post/180691632126"><a rel="nofollow" href="https://ann-ihi-lat-ion.tumblr.com/post/180691632126" class="tumblelog" title="welcome to my twisted spine">ann-ihi-lat-ion</a> reblogged this from <a rel="nofollow" href="https://awfulthingseverywhere.tumblr.com/" class="source_tumblelog" title="vomit">awfulthingseverywhere</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_jelly-life-lost-soul-blog without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://jelly-life-lost-soul-blog.tumblr.com/" title=" " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_507bc57e0895_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://jelly-life-lost-soul-blog.tumblr.com/" title="" rel="nofollow">jelly-life-lost-soul-blog</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_itspeacheslover without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://itspeacheslover.tumblr.com/" title="my blog " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_a2747372a8f1_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://itspeacheslover.tumblr.com/" title="my blog" rel="nofollow">itspeacheslover</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_brooksyums without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://brooksyums.tumblr.com/" title="Brook&#039;s Yums"><img src="https://64.media.tumblr.com/avatar_4f2c2e7bff1c_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://brooksyums.tumblr.com/post/180016732749"><a rel="nofollow" href="https://brooksyums.tumblr.com/post/180016732749" class="tumblelog" title="Brook&#039;s Yums">brooksyums</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_zetxe without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://zetxe.tumblr.com/" title="... " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_e22465c04608_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://zetxe.tumblr.com/" title="..." rel="nofollow">zetxe</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_mortallymagnificentwolf without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://mortallymagnificentwolf.tumblr.com/" title="Untitled " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_dcdb5eb88207_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://mortallymagnificentwolf.tumblr.com/" title="Untitled" rel="nofollow">mortallymagnificentwolf</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_littlemsconceited without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://littlemsconceited.tumblr.com/" title="Suffering is just another form of art " rel="nofollow"><img src="https://64.media.tumblr.com/ae347338c65c13d5777de8f73a16c0f2/628de942da12c0ff-b6/s16x16u_c1/5e09613b5b2ef78e9a9504671e5ae08ebc0b4609.jpg" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://littlemsconceited.tumblr.com/" title="Suffering is just another form of art" rel="nofollow">littlemsconceited</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_clearly-im-insane without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://clearly-im-insane.tumblr.com/" title="Jungle Savages " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_2da5ead8f9dc_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://clearly-im-insane.tumblr.com/" title="Jungle Savages" rel="nofollow">clearly-im-insane</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_kookingbtsstew without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://kookingbtsstew.tumblr.com/" title="🦋GIVING WINGS TO YOUR IMAGINATION🕊️ " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_fc7e42430462_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://kookingbtsstew.tumblr.com/" title="🦋GIVING WINGS TO YOUR IMAGINATION🕊️" rel="nofollow">kookingbtsstew</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_bluealeberry without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://bluealeberry.tumblr.com/" title="Alolan Waste"><img src="https://64.media.tumblr.com/avatar_1483213f4547_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://bluealeberry.tumblr.com/post/177980498367"><a rel="nofollow" href="https://bluealeberry.tumblr.com/post/177980498367" class="tumblelog" title="Alolan Waste">bluealeberry</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_bluealeberry without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://bluealeberry.tumblr.com/" title="Alolan Waste " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_1483213f4547_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://bluealeberry.tumblr.com/" title="Alolan Waste" rel="nofollow">bluealeberry</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_onenessnrg without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://onenessnrg.tumblr.com/" title="Untitled"><img src="https://assets.tumblr.com/images/default_avatar/cone_open_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="https://onenessnrg.tumblr.com/post/177851675408"><a rel="nofollow" href="https://onenessnrg.tumblr.com/post/177851675408" class="tumblelog" title="Untitled">onenessnrg</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_dayinknight without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://dayinknight.tumblr.com/" title="The Prodigal Son"><img src="https://assets.tumblr.com/images/default_avatar/cone_open_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="https://dayinknight.tumblr.com/post/177319924964"><a rel="nofollow" href="https://dayinknight.tumblr.com/post/177319924964" class="tumblelog" title="The Prodigal Son">dayinknight</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_that1weird-art-blog without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://that1weird-art-blog.tumblr.com/" title="randomly.angry " rel="nofollow"><img src="https://64.media.tumblr.com/181e76d604f962484f6621802e0bc5d3/99d3b597cc093534-e4/s16x16u_c1/e5e2068449345c3b7b572f1c2684c65e53ee7096.jpg" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://that1weird-art-blog.tumblr.com/" title="randomly.angry" rel="nofollow">that1weird-art-blog</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_madamza without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://madamza.tumblr.com/" title="There is no 11 u fucking whore!! " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_e7e4a978a10e_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://madamza.tumblr.com/" title="There is no 11 u fucking whore!!" rel="nofollow">madamza</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_yumetsuji without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://yumetsuji.tumblr.com/" title="Because Stars Fall " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_74c8ec20e064_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://yumetsuji.tumblr.com/" title="Because Stars Fall" rel="nofollow">yumetsuji</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_jenesishunte without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://jenesishunte.tumblr.com/" title="Untitled " rel="nofollow"><img src="https://assets.tumblr.com/images/default_avatar/cube_closed_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://jenesishunte.tumblr.com/" title="Untitled" rel="nofollow">jenesishunte</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_sleepyalecs without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://sleepyalecs.tumblr.com/" title="Without My Heart What Can I Do? " rel="nofollow"><img src="https://64.media.tumblr.com/51376f73546ad197b30e306f1c1599a7/498dc5febb00e437-7d/s16x16u_c1/3ce68128959edb1f878b17eb4c2dd9659579aa5a.jpg" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://sleepyalecs.tumblr.com/" title="Without My Heart What Can I Do?" rel="nofollow">sleepyalecs</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_theta-epsilon without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://theta-epsilon.tumblr.com/" title="&quot;N&aacute;ch m&oacute;r an diabhal th&uacute;&quot; " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_eaa9c5bc8e24_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://theta-epsilon.tumblr.com/" title="&quot;N&aacute;ch m&oacute;r an diabhal th&uacute;&quot;" rel="nofollow">theta-epsilon</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_welcome-to-a-nerds-world-blog without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://welcome-to-a-nerds-world-blog.tumblr.com/" title="Everything Everything " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_68c21814218f_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://welcome-to-a-nerds-world-blog.tumblr.com/" title="Everything Everything" rel="nofollow">welcome-to-a-nerds-world-blog</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_greenminister without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://greenminister.tumblr.com/" title="食べもの等ゆるーく記録 " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_f7c33ef2c045_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://greenminister.tumblr.com/" title="食べもの等ゆるーく記録" rel="nofollow">greenminister</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_holythotpatrol without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://holythotpatrol.tumblr.com/" title="Thot Patrol " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_3993738c5cc5_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://holythotpatrol.tumblr.com/" title="Thot Patrol" rel="nofollow">holythotpatrol</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_dreaming-jun-chu without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://dreaming-jun-chu.tumblr.com/" title="月のうさぎ"><img src="https://64.media.tumblr.com/avatar_cbbe87dda7bf_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://dreaming-jun-chu.tumblr.com/post/175809267986"><a rel="nofollow" href="https://dreaming-jun-chu.tumblr.com/post/175809267986" class="tumblelog" title="月のうさぎ">dreaming-jun-chu</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_a-rose-by-any-other-doctor without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://a-rose-by-any-other-doctor.tumblr.com/" title="A Rose By any Other Doctor " rel="nofollow"><img src="https://64.media.tumblr.com/255c160e32ff61888c0bdc99faa0490e/f9709995116159aa-bc/s16x16u_c1/3455c6a27bf5d3ee119d612d27be7830e1459367.jpg" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://a-rose-by-any-other-doctor.tumblr.com/" title="A Rose By any Other Doctor" rel="nofollow">a-rose-by-any-other-doctor</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_batt-apologist without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://batt-apologist.tumblr.com/" title="&ograve;&omega;&oacute;"><img src="https://64.media.tumblr.com/avatar_e7dbde02e42a_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://batt-apologist.tumblr.com/post/175218645085"><a rel="nofollow" href="https://batt-apologist.tumblr.com/post/175218645085" class="tumblelog" title="&ograve;&omega;&oacute;">batt-apologist</a> reblogged this from <a rel="nofollow" href="https://anthologicall.tumblr.com/" class="source_tumblelog" title="Projected Space">anthologicall</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_animathemutant without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://animathemutant.tumblr.com/" title="Anima " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_94853ce0ab7d_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://animathemutant.tumblr.com/" title="Anima" rel="nofollow">animathemutant</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_shitheapcentral without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://shitheapcentral.tumblr.com/" title="i don&#039;t know, i just work here " rel="nofollow"><img src="https://64.media.tumblr.com/avatar_c8993e58e4f8_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://shitheapcentral.tumblr.com/" title="i don&#039;t know, i just work here" rel="nofollow">shitheapcentral</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_anthologicall original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://anthologicall.tumblr.com/" title="Projected Space"><img src="https://64.media.tumblr.com/avatar_53df0a3700f5_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://anthologicall.tumblr.com/post/123126761745"><a rel="nofollow" href="https://anthologicall.tumblr.com/" class="tumblelog" title="Projected Space">anthologicall</a> posted this                                                                        </span><div class="clear"></div></li><li class="note more_notes_link_container" style="text-align:center;" id="more_notes_123126761745"><a class="more_notes_link" rel="nofollow" href="#" onclick="this.style.display='none';document.getElementById('notes_loading_123126761745').style.display = 'block';if(window.ActiveXObject)var tumblrReq=new ActiveXObject('Microsoft.XMLHTTP');else if(window.XMLHttpRequest)var tumblrReq=new XMLHttpRequest();else return false;tumblrReq.onreadystatechange=function(){if(tumblrReq.readyState==4){var notes_html=tumblrReq.responseText.split('<!-- START '+'NOTES -->')[1].split('<!-- END '+'NOTES -->')[0];
+if(window.tumblrNotesLoaded)if(tumblrNotesLoaded(notes_html)==false)return;var more_notes_link=document.getElementById('more_notes_123126761745');var notes=more_notes_link.parentNode;notes.removeChild(more_notes_link);notes.innerHTML+=notes_html;if(window.tumblrNotesInserted)tumblrNotesInserted(notes_html);}};tumblrReq.open('GET','/notes/123126761745/PNbCzkhho?from_c=1529138003',true);tumblrReq.send();return false;">Show more notes</a><span class="notes_loading" id="notes_loading_123126761745" style="display:none;">Loading...</span></li><!-- END NOTES --></ol><div id="pagination"></div>
+
+</div>
+ 
+
+ 
+
+ 
+</div><div>
+ 
+<div id="credit"><a href="http://www.cocorini.com" target="_blank">☂</a></div>
+ 
+ 
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                              "https://anthologicall.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/123126761745/gyudon-as-it-stands-is-like-ultimate-comfort-food?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script type="text/javascript" nonce="lxVefER22IyKRAAImY8pInXgZQ">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1653234543&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2FudGhvbG9naWNhbGwudHVtYmxyLmNvbS9wb3N0LzEyMzEyNjc2MTc0NS9neXVkb24tYXMtaXQtc3RhbmRzLWlzLWxpa2UtdWx0aW1hdGUtY29tZm9ydC1mb29kIiwicmVxdHlwZSI6MCwicm91dGUiOiIvcG9zdC86aWQvOnN1bW1hcnkifQ==&U=KJAIKENCFE&K=72ce3a76c95012a24143ba7d9691f651e0172b41361b0a35255db4b8f71e8f77&R=https%3A%2F%2Fwww.google.com%2F'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1653234543&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2FudGhvbG9naWNhbGwudHVtYmxyLmNvbS9wb3N0LzEyMzEyNjc2MTc0NS9neXVkb24tYXMtaXQtc3RhbmRzLWlzLWxpa2UtdWx0aW1hdGUtY29tZm9ydC1mb29kIiwicmVxdHlwZSI6MCwicm91dGUiOiIvcG9zdC86aWQvOnN1bW1hcnkiLCJub3NjcmlwdCI6MX0=&U=KJAIKENCFE&K=bb8993b3e2f3460f67ade8665e08349e14ba286ab83800ca2789b4b1c076b3ba&R=https%3A%2F%2Fwww.google.com%2F"></noscript><script type="text/javascript" nonce="lxVefER22IyKRAAImY8pInXgZQ">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1653234543&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9hbnRob2xvZ2ljYWxsLnR1bWJsci5jb20vcG9zdC8xMjMxMjY3NjE3NDUvZ3l1ZG9uLWFzLWl0LXN0YW5kcy1pcy1saWtlLXVsdGltYXRlLWNvbWZvcnQtZm9vZCIsInJlcXR5cGUiOjAsInJvdXRlIjoiL3Bvc3QvOmlkLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjEyMzEyNjc2MTc0NSIsImJsb2dpZCI6MTg0MTA3MTQ4LCJzb3VyY2UiOjMzfV19&U=DBNCGBHNOO&K=e49e97d14eaf773e9d165b63a638aeaa5a4805314b1245feb6b46bc012e4bf32&R=https%3A%2F%2Fwww.google.com%2F'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1653234543&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9hbnRob2xvZ2ljYWxsLnR1bWJsci5jb20vcG9zdC8xMjMxMjY3NjE3NDUvZ3l1ZG9uLWFzLWl0LXN0YW5kcy1pcy1saWtlLXVsdGltYXRlLWNvbWZvcnQtZm9vZCIsInJlcXR5cGUiOjAsInJvdXRlIjoiL3Bvc3QvOmlkLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjEyMzEyNjc2MTc0NSIsImJsb2dpZCI6MTg0MTA3MTQ4LCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=DBNCGBHNOO&K=2a16741826ad1be628473f3bacc46be39c09fdcfa122d750d9f59ab87328b10b&R=https%3A%2F%2Fwww.google.com%2F"></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=514e5bb9deb540cbc76c4b3d3e1be150&quot;,&quot;tumblelogName&quot;:&quot;anthologicall&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Projected Space&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_53df0a3700f5_64.pnj&quot;,&quot;tumblelogAvatar128&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_53df0a3700f5_128.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/anthologicall.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/assets.tumblr.com\/images\/default_header\/optica_pattern_09.png?_v=abe6f565397f54e880c2b76e6fc2022e&quot;,&quot;themeBackgroundColor&quot;:&quot;#FAFAFA&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#529ECC&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;single_post&quot;,&quot;currentPage&quot;:1,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;123126761745&quot;,&quot;src&quot;:&quot;https:\/\/anthologicall.tumblr.com\/post\/123126761745\/gyudon-as-it-stands-is-like-ultimate-comfort-food&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_continue_or_install_cta&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_continue_or_install_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;bn_header_open_btn&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1,&quot;installUrlOpenFailed&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_header_app_open_failed&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_header_app_open_failed\u0026mt=8&quot;},&quot;loginWallVariant&quot;:&quot;small_center&quot;}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJtb2JpbGVfd2ViX3Bob3Rvc2V0cyI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwibm90aWZpY2F0aW9uX3JlcGx5X2xpbmtfdG9fbm90ZXMiOnRydWUsInR5cGluZ19pbmRpY2F0b3Jfd3JpdGUiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJjYXB0Y2hhOnVzZV9yZWNhcHRjaGEyIjp0cnVlLCJsaXR0bGVfc2lzdGVyIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwicmVkcG9wX3Bvc3RfZm9ybV9tb2JpbGVfY3JlYXRlIjp0cnVlLCJsZWdhY3lfcG9zdF9mb3JtX2J1dHRvbnNfbGlua190b19yZWRwb3AiOnRydWUsInNob3dfdHNwX2NsaWNrX3Rocm91Z2hfdG9nZ2xlIjp0cnVlLCJkYXJsYV9hZF9mZWVkYmFjayI6dHJ1ZSwic3RhdHVzX2luZGljYXRvciI6dHJ1ZSwiY29udmVyc2F0aW9uYWxfbm90aWZpY2F0aW9ucyI6dHJ1ZSwiZGlzYWJsZV95YWhvb19iX2Nvb2tpZSI6dHJ1ZSwibGl2ZXBob3RvcyI6dHJ1ZX0=&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1653234543000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sDelete your tip??%2$s&quot;:&quot;%1$sDelete your tip?%2$s&quot;,&quot;Deleting your tip&quot;:&quot;Deleting your tip will only remove it from the replies tab and notes. %1$sYou won&#039;t receive a refund of your tip.%2$s For further help contact %3$sTumblr Support%4$s.&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=514e5bb9deb540cbc76c4b3d3e1be150"></script></body>
+</html>
