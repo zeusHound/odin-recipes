@@ -1,21 +1,22 @@
 /* styles.css */
 
-.page-color {
+
+.page-color {   /*styles home and takoyaki pages*/
     background-color: rgba(212, 177, 177, 0.774);
     text-align: center;
     font-size: 16px;
 }
-.page-color1 {
+.page-color1 {      /*styles ramen page*/
     background-color: rgba(158, 141, 47, 0.678);
     text-align: center;
     font-size: 16px;
 }
-.page-color2 {
+.page-color2 {      /*styles gyudon pag*/
     background-color: rgba(105, 28, 34, 0.685);
     text-align: center;
     font-size: 16px;
 }
-#header {
+#header {       /*styles header-element of both home and takoyaki pages*/
     color: rgba(229, 194, 208, 0.884);
     background-color: rgba(133, 14, 24, 0.712);
     font-size: 56px;
@@ -23,38 +24,38 @@
     font-family: 'Verdana', 'Candera'
     
 }
-#home {
+#home {     /*aligns home button below header-element*/
     text-align: center
 }
 h2,
 p,
 ul,
-ol {
+ol {        /*establishes uniform font style and alignment*/
     text-align: left;
     font-family: 'Verdana', 'Candera'
 
 }
-.sub-header {
+.sub-header {       /*styles all sub-header elements*/
     text-align: left;
     font-family: 'Verdana', 'Candera';
     
 
 }
-.cook-time {
+.cook-time {        /*establishes font and center alignment for cook-time element*/
     text-align: center;
     font-family: 'Verdana', 'Candera'
 }
-button {
+button {        /*styles home page button element*/
     text-align: center;
     color: black;
     font-size: 24px;
     font-family:"Candara", 'Verdana'
 }
-#takoyaki-picture {
+#takoyaki-picture {     /*takoyaki-picture size*/
     height: auto;
     width: 600px;
 }
-#animeFood-picture {
+#animeFood-picture {        /*animeFood-picture size*/
     height: auto;
     width: 600px;
 }
