@@ -1,0 +1,60 @@
+/* styles.css */
+
+.page-color {
+    background-color: rgba(212, 177, 177, 0.774);
+    text-align: center;
+    font-size: 16px;
+}
+.page-color1 {
+    background-color: rgba(158, 141, 47, 0.678);
+    text-align: center;
+    font-size: 16px;
+}
+.page-color2 {
+    background-color: rgba(105, 28, 34, 0.685);
+    text-align: center;
+    font-size: 16px;
+}
+#header {
+    color: rgba(229, 194, 208, 0.884);
+    background-color: rgba(133, 14, 24, 0.712);
+    font-size: 56px;
+    text-align: center;
+    font-family: 'Verdana', 'Candera'
+    
+}
+#home {
+    text-align: center
+}
+h2,
+p,
+ul,
+ol {
+    text-align: left;
+    font-family: 'Verdana', 'Candera'
+
+}
+.sub-header {
+    text-align: left;
+    font-family: 'Verdana', 'Candera';
+    
+
+}
+.cook-time {
+    text-align: center;
+    font-family: 'Verdana', 'Candera'
+}
+button {
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    font-family:"Candara", 'Verdana'
+}
+#takoyaki-picture {
+    height: auto;
+    width: 600px;
+}
+#animeFood-picture {
+    height: auto;
+    width: 600px;
+}
