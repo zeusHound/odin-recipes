@@ -24,6 +24,22 @@
     font-family: 'Verdana', 'Candera'
     
 }
+#headerRamen {       /*styles header-element of both home and takoyaki pages*/
+    color: rgba(12, 10, 11, 0.884);
+    background-color: rgba(61, 58, 14, 0.384);
+    font-size: 56px;
+    text-align: center;
+    font-family: 'Verdana', 'Candera'
+    
+}
+#headerGyudon {       /*styles header-element of both home and takoyaki pages*/
+    color: rgba(163, 158, 161, 0.884);
+    background-color: rgba(95, 36, 59, 0.63);
+    font-size: 56px;
+    text-align: center;
+    font-family: 'Verdana', 'Candera'
+    
+}
 #home {     /*aligns home button below header-element*/
     text-align: center
 }
