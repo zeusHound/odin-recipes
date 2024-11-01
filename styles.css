@@ -12,7 +12,7 @@
     font-size: 16px;
 }
 .page-color2 {      /*styles gyudon pag*/
-    background-color: rgba(105, 28, 34, 0.685);
+    background-color: rgba(33, 28, 105, 0.685);
     text-align: center;
     font-size: 16px;
 }
@@ -34,7 +34,7 @@
 }
 #headerGyudon {       /*styles header-element of both home and takoyaki pages*/
     color: rgba(163, 158, 161, 0.884);
-    background-color: rgba(95, 36, 59, 0.63);
+    background-color: rgba(55, 45, 129, 0.63);
     font-size: 56px;
     text-align: center;
     font-family: 'Verdana', 'Candera'
